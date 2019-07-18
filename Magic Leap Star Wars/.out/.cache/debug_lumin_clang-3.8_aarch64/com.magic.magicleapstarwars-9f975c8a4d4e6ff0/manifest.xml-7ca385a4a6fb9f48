@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="6cd14a92-bb3e-43c8-b324-54da8057f132" ml:package="com.magic.magicleapstarwars" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="2" ml:sdk_version="1.0" ml:visible_name="magicleapstarwars">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="magicleapstarwars">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

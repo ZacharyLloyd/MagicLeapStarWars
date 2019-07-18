@@ -1,0 +1,290 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/ztllo/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b86067a61b4c4062b41210d10d5c3e28448c35f0",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\libc++_shared.so-bf90217ab4d165af",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "6a050e51f3a62f6fffda32927dfadd41ec56191f",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3076864,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "a979667701f020e05780cd45208a024cf20b8cf1",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 45827336,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d30c4d8cf3872b87eaf24c2cbef57ccfd9ea2782",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\libil2cpp.so-36554ea574bf1152",
+   "xfrm_size": 45828094
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0526b8886488b3d4e2b1a0d2ee3666958356ae09",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\AudioPluginMSASpatializer.so-08b85c186c938dc8",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "241e9746801f25103d3754d88e543575ea47f8a9",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "59d035b177af853aa8ee2a78714391dae4657a36",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495008,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c6884d278ed3cf38ec4a7d1f9aea7d3c2c2fbdd9",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\UnityMagicLeap.so-08b85c186c938dc8",
+   "xfrm_size": 1495766
+  },
+  {
+   "compression": 8,
+   "hash": "e36553e9a3113280d39db515a350a0036cda878d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "be06b764659f798dda2c3a87b6117ee7fde9dd72",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\libml_camera_plugin.so-08b85c186c938dc8",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "0ee8bd5ed3f83c8d11c84a597fb375ec525b0642",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e40e2ffa7deaca0005a588213f064878fe872090",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\libml_mediaplayer_plugin.so-08b85c186c938dc8",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "f3ddd436449416fd9d2153e16acf6ec71202b20a",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 754668,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "10506c7e5f53e331db0e8c7c94047849df023433",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 176,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "9f9d9fdfae69214ea57a2416e60a9fe924367caa",
+   "pkgpath": "Data/boot.config",
+   "size": 144,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "4182ef04bf5ff210a7a6907a126cfc83e7801d25",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 42200,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "fdb208cf438584fde0fbd8e14095c77a4bc1368f",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 45604,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "c82e30bd8f6d0dbdd88c01c90096c3cfedc3c690",
+   "pkgpath": "Data/level0",
+   "size": 6308,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "066a61cf1e1fe1352eeb40b7a2fa901b8f090566",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "a85d4b98949427edc4170aff1b4359b40630f17b",
+   "pkgpath": "Data/resources.assets",
+   "size": 522608,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4ce785d29d24c54555cb4aa9fed0d8d2dee1fad",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "9ae7a6447ed7d45f8915cfb494cc1b98f2d70995",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 2936280,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "67e79d57251b8491ccd5ada72692bf86d8c0c1f7",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 6254400,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "f3fb3602315aa7dd326dc8e953e9fc4f36597cd7",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 15392,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "2b5efbfd59a16a6a3421e4899cd43df9bed8afa0",
+   "pkgpath": "bin/Player.elf",
+   "size": 20284312,
+   "src": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c54d8466745114b9809127f16b6c782d1afc3808",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\Player.elf-7ca385a4a6fb9f48",
+   "xfrm_size": 20285070
+  },
+  {
+   "compression": 8,
+   "hash": "8e953bc3bc63c423457e1aedd46af0273b3e899f",
+   "pkgpath": "manifest.xml",
+   "size": 556,
+   "src": "C:\\Users\\ztllo\\OneDrive\\Documents\\GitHub\\MagicLeapStarWars\\MagicLeapStarWars\\Magic Leap Star Wars\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "b46cce103c44fe4361937835e0e62ac7bceb8a68",
+     "developer_id": "6cd14a92-bb3e-43c8-b324-54da8057f132"
+    }
+   },
+   "xfrm_hash": "422e483f06430286c9a90572f9e5ebf28d24b33e",
+   "xfrm_path": "C:/Users/ztllo/OneDrive/Documents/GitHub/MagicLeapStarWars/MagicLeapStarWars/Magic Leap Star Wars/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magic.magicleapstarwars-9f975c8a4d4e6ff0\\manifest.xml-7ca385a4a6fb9f48",
+   "xfrm_size": 568
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\ztllo\\OneDrive\\Desktop\\MagicLeap Class\\privatekey\\studentdevelopment.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
