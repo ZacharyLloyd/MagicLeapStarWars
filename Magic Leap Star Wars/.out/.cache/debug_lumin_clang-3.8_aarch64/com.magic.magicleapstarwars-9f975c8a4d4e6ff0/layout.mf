@@ -1,7 +1,7 @@
 [
  {
   "dest": "bin/libc++_shared.so",
-  "src": "C:/Users/ztllo/MagicLeap/mlsdk/v0.20.0/lumin/stl/libc++/lib/libc++_shared.so"
+  "src": "C:/Users/ztllo/MagicLeap/mlsdk/v0.21.0/lumin/stl/libc++/lib/libc++_shared.so"
  },
  {
   "dest": "bin/libil2cpp.so",
